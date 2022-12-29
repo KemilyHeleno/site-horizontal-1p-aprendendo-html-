@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <!-- Deixa o arquivo com o formatação da lingua portuguesa,
+         ou seja permite que eu coloque acentos nas letras sem dar bugs nelas-->
+
+    <head>
+        <meta charset="UTF-8">
+        <title> HYUNDAI IX35 </title>
+    </head>
+    <body>
+        <table>
+            <tr bgcolor="gainsboro">
+                <td>
+                    <!-- Cria uma tabela com a cor gainsboro (um tipo de cinza) no fundo -->
+                    <p align=justify>
+                    <!-- Deixa o alinhamento Justificado -->
+                        <font face="arial">
+                            <font size="4">
+                            <!-- Deixa a fonte arial e o tamanho 4 -->
+                                <p align="center">
+                                    <!-- Deixa o alinhamento centralizado -->
+                                    <a href="#home"><img src="Imagens/home.gif" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <!-- Acrescenta um link em imagem para o início -->
+                                    
+                                    <a href="#dev"><img src="Imagens/dev.png" height="60"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <!-- Adiciona um link em imagem para o dev -->
+                                    
+                                    <a href="#compra"><img src="Imagens/carrinho.webp" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <!-- Adiciona um link em imagem para as compras demonstrado por um carrinho -->
+                                    
+                                    <a href="#links"><img src="Imagens/links.png" height="50"></a>
+                                    <!-- Adiciona um link em imagem para os links -->
+                                    
+                                    <!-- &nbsp; da um espaço se colocado mais de um da um espaço maior -->
+                                    <hr>
+                                    <hr>
+                                    <!-- Insere duas linhas horizontais -->
+                            </font>
+                        </font>
+                                </p>
+                    <font face="arial">
+                            <a name="home">
+                                <!-- Da nome a essa parte da página para poder separar as partes e criar um link âncora -->
+                                <img src="Imagens/home.gif" height="60">
+                                <!-- Indetificação de posição em imagem -->
+                                
+                                <br>
+                                <br>
+                                <img src = "Imagens/logotipo.jpg"  height="100" width="150">
+                                <!-- Insere o logotipo da marca com 90 pixels de altura 100 pixels de largura -->
+                                
+                                <br>
+                                <img src="Imagens/carro.jpg" height="450" width="600">
+                                <!-- Insere a imagem do carro anunciado com 450x600 pixels -->
+                                
+                                <br>
+                                <font size="5" color="indigo"> HYUNDAI IX35</font>
+                                <!-- Deixa o título do texto com tamanho 5 e cor indigo -->
+                                <br>
+                                O SUV que já era bom, acaba de ficar ainda melhor. Ar condicionado manual, controle de atração e estabilidade, airbags frontais, nova grade hexagonal e novas rodas aro 17" Sport.
+                                <br>
+                                <br>
+                                <font size="4" color="indigo"> Tecnologia ISG: Intelligent Stop & Go </font>
+                                <!-- Deixa o título do texto com tamanho 4 e cor indigo -->
+                                <br>
+                                <ul>
+                                    <li> Ao parar, o veículo é desligado de forma automática. </li>
+                                    <li> Ao arrancar, o veículo é religado também de forma automática. </li>
+                                    <li> Reduz o consumo de combustível significativamente. </li>
+                                    <li> Reduz as emissões de gases poluentes de forma eficiente. </li>
+                                    <!-- Lista da tecnologia ISG -->
+                                </ul>
+                                <font size="4" color="indigo">Novo exterior</font>
+                                <!-- Deixa o título do texto com tamanho 4 e cor indigo -->
+                                <br>
+                                Nova roda aro 17", lanterna traseira de LED e farol dianteiro com projeção e fita em LED.
+                                <br>
+                                <font size="4" color="indigo">Interior </font>
+                                <!-- Deixa o título do texto com tamanho 4 e cor indigo -->
+                                <br>
+                                Sistema de partida sem chave, ar condicionado com saída para a segunda fileira de bancos.
+                                <br>
+                                <font size="4" color="indigo">Segurança</font>
+                                <!-- Deixa o título do texto com tamanho 4 e cor indigo -->
+                                <br>
+                                Airbags frontais, controle eletônico de estabilidade, controle de tração e assistente de frenagem em declive.
+                                <br>
+                                <font size="4" color="indigo">Entretenimento</font>
+                                <!-- Deixa o título do texto com tamanho 4 e cor indigo -->
+                                <br>
+                                A central multimídia da ix35 conta com a tela touch screen de 7", AM/FM, entrada USB, Bluetooht V4.0, entrada AUX, integrada com a camera de ré e comandos no   volante, além de conectividade com celulares com sistema operacional On Can (espelhamento), Android, através do Google Android Auto® e iOS, por meio do Apple Car Play®.
+                                <br>
+                                <font size="4" color="indigo">Tecnologia</font>
+                                <!-- Deixa o título do texto com tamanho 4 e cor indigo -->
+                                <br>
+                                Piloto automático (Auto Cruise Control), Smart Entry (acesso ao veículo sem chave) e comandos no volante.
+                                <br>
+                                <font size="4" color="indigo">Transmissão</font>
+                                <!-- Deixa o título do texto com tamanho 4 e cor indigo -->
+                                <br>
+                                Transmição de 6 velocidades automática, com Shiftronic e silênciosa.
+                                <br>
+                                <font size="4" color="indigo">Motor</font>
+                                <!-- Deixa o título do texto com tamanho 4 e cor indigo -->
+                                <br>
+                                Motor 2.0 CVVT-i FLEX DOHC com 167 cv de potência no Etanol e 157 cv na Gasolina.
+                                <br>
+                                <font size="4" color="indigo">Espaço e conforto</font>
+                                <!-- Deixa o título do texto com tamanho 4 e cor indigo -->
+                                <br>
+                                Porta-malas com 728 litros e bancos em couro com ajuste elétrico no banco do motorista.
+                                <br>
+                                <font size="4" color="indigo">Consumo médio do novo Hyundai IX35 2020</font>
+                                <!-- Deixa o título do texto com tamanho 4 e cor indigo -->
+                                <ul>
+                                    <b>Cidade</b>
+                                    <!-- <b> Deixa a palavra em negrito </b> -->
+                                    <br>
+                                    <li>IX35 2,0 AT - 6,0 km/litro com etanol e 8,7 km/litro na gasolina.</li> 
+                                    <b>Estrada</b>
+                                    <!-- <b> Deixa a palavra em negrito </b> -->
+                                    <br>
+                                    <li>IX35 2,0 AT - 7,2 km/litro com etanol e 10,3 km/litro na gasolina.</li>
+                                    <!-- Lista do consumo médio -->
+                                </ul>
+                                <font size="4" color="indigo"> Preço do novo Hyundai IX35 2020</font>
+                                <!-- Deixa o título do texto com tamanho 4 e cor indigo -->
+                                <br>
+                                Conheça as novas práticas de preço por parte da Hyundai para com seu mais novo modelo de carro SUV para 2020:
+                                <ul>
+                                    <li>Preço do Hyundai IX35 2.0 AT 2020 - R$99.990</li>
+                                    <li>Preço do Hyundai IX35 GL 2,0 AT 2020 - 110.990</li>
+                                    <!-- Lista do preço do carro -->
+                                </ul>
+                                <a href="#home"><img src="Imagens/home.gif" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <!-- Acrescenta um link em imagem para o início -->
+                                    
+                                    <a href="#dev"><img src="Imagens/dev.png" height="60"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <!-- Adiciona um link em imagem para o dev -->
+                                    
+                                    <a href="#compra"><img src="Imagens/carrinho.webp" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <!-- Adiciona um link em imagem para as compras demonstrado por um carrinho -->
+                                    
+                                    <a href="#links"><img src="Imagens/links.png" height="50"></a>
+                                    <!-- Adiciona um link em imagem para os links -->
+                                
+                                <hr>
+                        </a>
+                    </font>
+                
+                </td>
+                <!-- Fecha essa parte da tabela, para poder inserir outra cor ao fundo -->
+            </tr>
+            <tr bgcolor="deepskyblue">
+            <!-- Cria uma tabela com a cor deepskyblue (um tipo de azul) no fundo -->
+                <td>
+                    <font face="arial">
+                    <hr>
+                    <a name="dev">
+                        <img src="Imagens/dev.png" height="100">
+                        <!-- Indetificação de posição em imagem -->
+                        
+                        <br>
+                        <br>
+                        <font face="arial" size="4">
+                            <p align="center">
+                                <!-- Deixa o texto e imagem centralizado -->
+                                <img src="Imagens/kemily.jpg" height="150" width="150">
+                                <!-- Insere a minha imagem de tamanho 150x150 -->
+                                
+                                <br>
+                                <br>
+                                10 - Kemily Rafaelly Heleno
+                                <!-- Meu número e nome -->
+                                <br>
+                                kemily.heleno@unesp.br
+                                <!-- Meu e-mail institucional da Unesp -->
+                                <br>
+                                <br>
+                            </p>
+                            <br>
+                            <br>
+                            <a href="#home"><img src="Imagens/home.gif" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <!-- Acrescenta um link em imagem para o início -->
+                                    
+                            <a href="#dev"><img src="Imagens/dev.png" height="60"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <!-- Adiciona um link em imagem para o dev -->
+                                    
+                            <a href="#compra"><img src="Imagens/carrinho.webp" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <!-- Adiciona um link em imagem para as compras demonstrado por um carrinho -->
+                                    
+                            <a href="#links"><img src="Imagens/links.png" height="50"></a>
+                            <!-- Adiciona um link em imagem para os links -->
+                               
+                        </font>
+                        <!-- Insere uma imagem de retorno para o início da página -->
+                        
+                        <hr>
+                    </a>
+                    </font>
+                </td>
+                <!-- Fecha essa parte da tabela, para poder inserir outra cor ao fundo -->
+            </tr>
+            <tr bgcolor="springgreen">
+            <!-- Cria uma tabela com a cor springgreen (um tipo de verde) no fundo -->
+                <td>
+                    <hr>
+                    <a name="compra">
+                        
+                        <!-- Insere duas linhas horizontais -->
+                        <img src="Imagens/carrinho.webp"   height="80">
+                        <!-- Indetificação de posição em imagem -->
+                        
+                        <form method="post">
+                            <font face="arial" size="4">
+                                <!-- Abre um formulário -->
+                                <br>
+                                
+                                <div>
+                                    <input type=text name="Nome" size="40" maxlenght="50" value="Nome" required><br>
+                                    <!-- Cria um campo de texto para o nome -->
+                                    <!-- Tamanho 40 -->
+                                    <!-- Máximo de 50 caracteres -->
+                                    <!-- Campo obrigatório -->
+                                </div>
+                                <br>
+                                
+                                <div>
+                                    <input type=text name="Endereço" size="40" maxlenght="50" value="Endereço" required><br>
+                                    <!-- Cria um campo de texto para o endereço -->
+                                    <!-- Tamanho 40 -->
+                                    <!-- Máximo de 50 caracteres -->
+                                    <!-- Campo obrigatório -->
+                                </div>
+                                <br>
+                                
+                                <div>
+                                    <input type=email name="e-mail" size="40" maxlenght="50" value="E-mail" required><br>
+                                    <!-- Cria um campo de texto para o e-mail -->
+                                    <!-- Tamanho 40 -->
+                                    <!-- Máximo de 50 caracteres -->
+                                    <!-- Campo obrigatório -->
+                                </div>
+                                <br>
+                                
+                                <div>
+                                    <input name="Celular" size="40" value="Celular"><br>
+                                    <!-- Cria um campo de tel para o celular -->
+                                    <!-- Tamanho 40 -->
+                                    <!-- Não obrigatório -->
+                                    <!-- Com validação dos números para um telefone válido -->
+                                </div>
+                                
+                                <div>
+                                    <fieldset><p>Escolha a cor: <br>
+                                        <!-- Botões com as opções de cores -->
+                                        <input type=radio name="preto">Preto
+                                        <input type=radio name="branco">Branco
+                                        <input type=radio name="cinza">Cinza 
+                                        <input type=radio name="prata">Prata<br>
+                                    </fieldset>
+                                </div>
+                                
+                                <div>
+                                    <fieldset> Escolha o tipo de combustível:<br>
+                                        <!-- Caixas de check com as opções de combustível -->
+                                        <input type=checkbox name="gasolina"> Gasolina
+                                        <input type=checkbox name="etanol"> Etanol
+                                        <input type=checkbox name="g/e"> Gasolina/Etanol
+                                        <input type=checkbox name="diesel"> Diesel<br>
+                                    </fieldset>
+                                </div>
+                                
+                                <div>
+                                    <fieldset> Forma de pagamento:<br>
+                                        <!-- Caixas de check com as opções de pagamento -->
+                                        <!-- Depósito já pré-selecionado -->
+                                        <input type=checkbox name="deposito" checked> Depósito
+                                        <input type=checkbox name="cartao"> Cartão<br>
+                                    </fieldset>
+                                </div>
+                                
+                                <div>
+                                    <fieldset>Comentário:<br>
+                                        <!-- Cria uma caixa de texto para os comentários -->
+                                        <!-- A caixa terá 6 linhas e 60 colunas -->
+                                        <textarea name="comentario" rows="6" cols="60"></textarea>
+                                    </fieldset>
+                                </div>
+                                
+                                <input type=submit value="Enviar">
+                                <!-- Insere botão para enviar os dados -->
+                                
+                                <input type=reset value="Limpar">
+                                <!-- Insere botão para limpar a tela para redigitação dos dados -->
+                                
+                                <br>
+                                <br>
+                            </font>
+                            
+                            <a href="#home"><img src="Imagens/home.gif" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <!-- Acrescenta um link em imagem para o início -->
+                                    
+                            <a href="#dev"><img src="Imagens/dev.png" height="60"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <!-- Adiciona um link em imagem para o dev -->
+                                    
+                            <a href="#compra"><img src="Imagens/carrinho.webp" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <!-- Adiciona um link em imagem para as compras demonstrado por um carrinho -->
+                                    
+                            <a href="#links"><img src="Imagens/links.png" height="50"></a>
+                            <!-- Adiciona um link em imagem para os links -->
+                                        
+                            <hr>
+                        </form>
+                    </a>
+                </td>
+                <!-- Fecha essa parte da tabela, para poder inserir outra cor ao fundo -->
+            </tr>
+            <tr bgcolor="lightpink">
+            <!-- Cria uma tabela com a cor lightpink (um tipo de rosa) no fundo -->
+                <td>
+                    <font face="arial">
+                    <hr>
+                    <a name="links">
+                        
+                        <img src="Imagens/links.png" height="50">
+                        <!-- Indetificação de posição em imagem -->
+                        
+                        <br>
+                        <br>
+                        <font size="5" color="indigo"> &nbsp;&nbsp;&nbsp;&nbsp;Sites Oficiais </font>
+                        <!-- Insere um texto em cor indigo tamanho 5 -->
+                        
+                        <br>
+                        <br>
+                        <font face="arial" size="4">
+                            <!-- Insere um texto em arial tamanho 4 -->
+                            Clique nas imagens para ir ao site desejado.
+                            <br>
+                            <a href="http://www.hyundai.com.br" target="_blank"><img src="Imagens/brasil.png" height="60"></a>
+                            
+                            <!-- Insere a imagem da bandeira do Brasil em formato de coração -->
+                            
+                            <!-- A imagem é um link para o site Hyundai oficial do Brasil -->
+                            
+                            <!-- target="_blank" faz com que o link seja aberto em outra guia e não na mesma -->
+                            
+                            <a href="http://www.hyundaiusa.com" target="_blank"><img src="Imagens/eua.png" height="50"></a>
+                            
+                            <!-- Insere a imagem da bandeira do Estasdos Unidos em formato de coração -->
+                            
+                            <!-- A imagem é um link para o site Hyundai oficial do EUA -->
+                            
+                            <!-- target="_blank" faz com que o link seja aberto em outra guia e não na mesma -->
+                            
+                            <a href="http://www.hyundai.it" target="_blank"><img src="Imagens/italia.png" height="60"></a>
+                            
+                            <!-- Insere a imagem da bandeira da Italia em formato de coração -->
+                            
+                            <!-- A imagem é um link para o site Hyundai oficial da Italia -->
+                            
+                            <!-- target="_blank" faz com que o link seja aberto em outra guia e não na mesma -->
+                            
+                            <a href="http://www.hyundai.es" target="_blank"><img src="Imagens/espanha.png" height="60"></a>
+                            
+                            <!-- Insere a imagem da bandeira da Espanha em formato de coração -->
+                            
+                            <!-- A imagem é um link para o site Hyundai oficial da Espanha -->
+                            
+                            <!-- target="_blank" faz com que o link seja aberto em outra guia e não na mesma -->
+                            
+                            <br>
+                            <br>
+                            <hr>
+                            <a href="#home"><img src="Imagens/home.gif" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <!-- Acrescenta um link em imagem para o início -->
+                                    
+                            <a href="#dev"><img src="Imagens/dev.png" height="60"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <!-- Adiciona um link em imagem para o dev -->
+                                    
+                            <a href="#compra"><img src="Imagens/carrinho.webp" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <!-- Adiciona um link em imagem para as compras demonstrado por um carrinho -->
+                                    
+                            <a href="#links"><img src="Imagens/links.png" height="50"></a>
+                            <!-- Adiciona um link em imagem para os links -->
+                            
+                        </font>
+                    </a>
+                    <hr>
+                    <hr>
+                    <p align="center">
+                        <font size="1" face="arial">
+                            10 - Kemily Rafaelly Heleno 72C<br>
+                            Colégio Tecnico Industrial<br>
+                            UNESP Bauru-SP
+                        </font>
+                    </p>
+                    </font>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
